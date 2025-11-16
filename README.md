@@ -6,8 +6,6 @@
 
 An intelligent, client-side learning platform that transforms any study topic into an interactive concept map using Azure GPT-4o-mini. Features adaptive quizzes, spaced repetition, cognitive load monitoring, and wellbeing support.
 
-![MindMesh Screenshot](https://via.placeholder.com/800x400?text=MindMesh+Concept+Map)
-
 ---
 
 ## 🌟 Features
@@ -550,3 +548,4 @@ Transform the way you learn. One concept at a time. 🧠✨
 - [Troubleshooting](#-troubleshooting)
 
 Happy Learning! 🚀
+
