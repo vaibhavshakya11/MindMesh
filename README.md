@@ -51,8 +51,8 @@ An intelligent, client-side learning platform that transforms any study topic in
 
 1. **Clone or download the project:**
 ```bash
-git clone https://github.com/yourusername/mindmesh.git
-cd mindmesh
+git clone https://github.com/vaibhavshakya11/MindMesh.git
+cd MindMesh
 ```
 
 2. **Install dependencies:**
@@ -227,7 +227,7 @@ View in Control Panel:
 
 ### Project Structure
 ```
-mindmesh/
+MindMesh/
 ├── public/
 │   └── index.html
 ├── src/
@@ -450,25 +450,6 @@ Contributions are welcome! Here's how you can help:
 - 🔄 Sync across devices (optional backend)
 - 🎓 Pre-built curriculum templates
 
-### Development Setup
-```bash
-# Fork the repository
-git clone https://github.com/yourusername/mindmesh.git
-cd mindmesh
-
-# Create feature branch
-git checkout -b feature/your-feature-name
-
-# Make changes and test
-npm start
-
-# Commit with clear messages
-git commit -m "Add: feature description"
-
-# Push and create PR
-git push origin feature/your-feature-name
-```
-
 ---
 
 ## 📝 Changelog
@@ -519,15 +500,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ---
 
-## 📧 Support
-
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/mindmesh/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/mindmesh/discussions)
-- 📖 **Documentation**: [Wiki](https://github.com/yourusername/mindmesh/wiki)
-- 💬 **Community**: [Discord Server](https://discord.gg/mindmesh)
-
----
-
 ## 🌟 Star History
 
 If you find MindMesh helpful, please consider giving it a star on GitHub! ⭐
@@ -548,4 +520,5 @@ Transform the way you learn. One concept at a time. 🧠✨
 - [Troubleshooting](#-troubleshooting)
 
 Happy Learning! 🚀
+
 
